@@ -1,0 +1,55 @@
+JavaScript
+
+1 - JavaScript Essential Training
+2 - Think in a JavaScript way
+3 - JavaScript: The New Toys `references`
+4 - The JavaScript Interview Workbook: 400 Coding exercises!
+5 - JavaScript & DOM Tips, Tricks, and Techniques
+6 - Beginner JavaScript `projects`
+7 - leonardomso/33-js-concepts
+8 - Object-oriented Programming in JavaScript
+9 - Functional JavaScript First Steps
+10 - JavaScript Simplified (Beginner & Advanced)
+
+Python
+
+1 - Beyond the Basic Stuff with Python
+2 - gto76/python-cheatsheet
+3 - learning-zone/python-interview-questions
+4 - Py Conf & Series 
+5 - zedr/clean-code-python 
+5 - Linkedin Learning
+6 - Object Oriented Programming with Modern Python
+7 - The Big Book Small Python Projects 
+8 - Functional Programming with Python `Linkedin`
+9 - Unit Testing in Python `Linkedin`
+10 - Python Testing with pytest, 2E
+
+DSA
+
+1 - DSA Topics for Interview + HackerRank Interview Preparation Kit
+2 - Algorithmic Patterns for Coding Interview Problems
+3 - Introduction to Algorithms, 4E `references`
+4 - let's see what come next
+
+Others
+
+- [From Python to Numpy](https://www.educative.io/courses/from-python-to-numpy) `v1`
+- [C# for Programmers: A Practical Guide](https://www.educative.io/courses/c-sharp-for-programmers-a-practical-guide) `v1`
+- [Learn Object-Oriented Programming in C#](https://www.educative.io/courses/learn-object-oriented-programming-in-c-sharp) `v1`
+- [Docker for Developers](https://www.educative.io/courses/docker-for-developers) `v1`
+- [Grokking Computer Networking for Software Engineers](https://www.educative.io/courses/grokking-computer-networking) `v2`
+- [Database Design Fundamentals for Software Engineers](https://www.educative.io/courses/database-design-fundamentals) `v2`
+- [Flask: Develop Web Applications in Python](https://www.educative.io/courses/flask-develop-web-applications-in-python) `v1`
+- [An Introductory Guide to SQL](https://www.educative.io/courses/introductory-guide-to-sql) `v1`
+- [The Definitive Guide to MongoDB](https://www.educative.io/courses/definitive-guide-to-mongodb) `v1`
+- [An Introduction to Programming in Go](https://www.educative.io/courses/introduction-to-programming-in-go) `v1`
+- [The Way to Go](https://www.educative.io/courses/the-way-to-go) `v2`
+- [Learn C++: The Complete Course for Beginners](https://www.educative.io/courses/learn-cpp-complete-course) `v1`
+- [C++ Standard Library including C++ 14 & C++ 17](https://www.educative.io/courses/cpp-standard-library-including-cpp-14-and-cpp-17) `v2`
+- [Learn Object-Oriented Programming in C++](https://www.educative.io/courses/learn-object-oriented-programming-in-cpp) `v1`
+- [Learn Java from Scratch](https://www.educative.io/courses/learn-java-from-scratch) `v1`
+- [Learn Object-Oriented Programming in Java](https://www.educative.io/courses/learn-object-oriented-programming-in-java) `v1`
+- [Become a Blockchain Developer](https://www.educative.io/courses/hands-on-blockchain-hyperledger-fabric) `v1`
+- [JavaScript Fundamentals Before Learning React](https://www.educative.io/courses/javascript-fundamentals-before-learning-react) `v2`
+- [Simplifying JavaScript: A Handy Guide for Software Engineers](https://www.educative.io/courses/simplifying-javascript-handy-guide) `v1`
